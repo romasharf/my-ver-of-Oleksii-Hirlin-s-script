@@ -4,7 +4,10 @@
 <enableinfo>true</enableinfo>
 <category>Hirlin Scripts</category>
 </javascriptresource>
-// Oleksii Hirlin 2021 (attention! in this version some code were added by romasharf to work only with the eyedropper and only with two of its modes:"All Layers" and "Current Layer")
+// Oleksii Hirlin 2021
+
+//Attention! in this version some code were added by romasharf to work only with the eyedropper and only with two of its modes:"All Layers" and "Current Layer"
+
 */
 var includeAllOptions = false; // should be either true or false
 // if set to false will switch between 'Current' and 'Current &below' or just switch on / off
